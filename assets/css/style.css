@@ -54,6 +54,8 @@ button:hover {
     float: left;
 }
 
-.forgot {
+a {
     float:right;
+    color: rgb(0, 110, 255);
+    text-decoration: none;
 }
