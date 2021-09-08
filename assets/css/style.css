@@ -30,8 +30,9 @@ input[type="password"] {
   margin: 8px 0;
   padding: 12px 20px;
   display: inline-block;
-  border: 2px solid rgb(42, 175, 25);
+  border: 1px solid rgb(73, 73, 73);
   box-sizing: border-box;
+  background-color: rgb(29, 29, 29);;
 }
 
 button:hover {
